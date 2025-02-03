@@ -1,6 +1,6 @@
 ## Olá! eu sou a Tainá!
 - 🔭 Trabalho atualmente com PHP.
-- 😄 Pronouns: Ela/Dela.
+- 😄 Pronomes: Ela/Dela.
 
 ---
 
